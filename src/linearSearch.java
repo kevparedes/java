@@ -16,7 +16,7 @@ public class linearSearch {
             list[i]=i;
         }
 
-        int k = linearSearch(list, 1);
+        int k = linearSearch(list, 2);
 
         System.out.println("This is the result "+ k);
 

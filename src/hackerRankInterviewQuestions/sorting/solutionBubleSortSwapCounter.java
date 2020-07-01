@@ -1,4 +1,4 @@
-package hackerRankInterviewQuestions;
+package hackerRankInterviewQuestions.sorting;
 import java.util.Scanner;
 
 public class solutionBubleSortSwapCounter {
